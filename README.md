@@ -3,7 +3,7 @@
 
 **Information Systems Student | Software Development | AI & Data**
 
-Information Systems student , interested in building practical technology solutions through software development, artificial intelligence, and data-driven systems.
+Information Systems student interested in building practical technology solutions through software development, artificial intelligence, and data-driven systems.
 
 ## About Me
 
@@ -17,7 +17,7 @@ Information Systems student , interested in building practical technology soluti
 - Web Development
 - Artificial Intelligence
 - Data Analytics & Business Intelligence
-- System Analysis and Design
+- Systems Analysis and Design
 
 **Tech Stack:** React, TypeScript, NestJS, PostgreSQL, Supabase
 
@@ -29,8 +29,3 @@ Information Systems student , interested in building practical technology soluti
 
 **Bachelor's Degree in Information Systems**  
 Almaarefa University, Saudi Arabia
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/rand-alhussaini-894ab63aa/)
-
