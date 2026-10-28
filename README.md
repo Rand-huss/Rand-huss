@@ -1,7 +1,7 @@
 
 # Rand Alhussaini
 
-**Information Systems Student | Software Development | AI & Data**
+**Information Systems Student | Software Development | AI & Data** 💻
 
 Information Systems student interested in building practical technology solutions through software development, artificial intelligence, and data-driven systems.
 
@@ -25,7 +25,7 @@ Information Systems student interested in building practical technology solution
 
 `TypeScript` `JavaScript` `Python` `SQL` `React` `Node.js` `NestJS` `PostgreSQL` `Supabase` `Git` `GitHub` `Figma`
 
-## Education
+## Education📖📚
 
 **Bachelor's Degree in Information Systems**  
 Almaarefa University, Saudi Arabia
