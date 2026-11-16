@@ -29,3 +29,5 @@ Information Systems student interested in building practical technology solution
 
 **Bachelor's Degree in Information Systems**  
 Almaarefa University, Saudi Arabia
+**Diploma Degree in Programming** 
+Princess Norah University, Saudi Arabia
